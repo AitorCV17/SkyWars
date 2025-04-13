@@ -1,0 +1,71 @@
+name: SkyWars
+main: me.aitor.skywars.SkyWars
+version: 1.0.0
+author: Aitor
+softdepend: [HolographicDisplays, PlaceholderAPI, LeaderHeads, Vault, PlayerPoints, Craftconomy3]
+commands:
+  sw:
+    description: Comandos de SkyWars.
+    usage: /<comando>
+  leave:
+    description: Comando para salir de SkyWars.
+    usage: /<comando>
+  salir:
+    description: Comando para salir de SkyWars.
+    usage: /<comando>
+permissions:
+  skywars.admin:
+    description: Acceso a comandos y características de administración
+    default: op
+    children:
+      skywars.admin.arena: true
+      skywars.admin.tp: true
+      skywars.admin.hologram: true
+      skywars.admin.reload: true
+      skywars.admin.coins: true
+      skywars.admin.forcestart: true
+      skywars.admin.spectate: true
+      skywars.cmd.open: true
+      skywars.vip: true
+      skywars.tab.bypass: true
+  skywars.admin.arena:
+    description: Acceso a los comandos de configuración de arenas
+    default: op
+    children:
+      skywars.admin.arena.load: true
+      skywars.admin.arena.create: true
+      skywars.admin.arena.spawn: true
+      skywars.admin.arena.set: true
+      skywars.admin.arena.disable: true
+      skywars.admin.arena.reload: true
+  skywars.admin.reload:
+    description: Acceso a los comandos de recarga
+    default: op
+    children:
+      skywars.admin.reload.all: true
+      skywars.admin.reload.config: true
+      skywars.admin.reload.messages: true
+      skywars.admin.reload.score: true
+      skywars.admin.reload.shops: true
+  skywars.admin.hologram:
+    description: Acceso a los comandos de hologramas
+    default: op
+    children:
+      skywars.admin.hologram.add: true
+      skywars.admin.hologram.remove: true
+  skywars.cmd.open:
+    description: Acceso para abrir menús de comandos
+    default: false
+    children:
+      skywars.cmd.open.lshop: true
+  skywars.user:
+    description: Acceso a las características de usuario
+    default: true
+  skywars.vip:
+    description: Acceso a las características VIP
+    default: false
+    children:
+      skywars.vip.talk: true
+  skywars.join:
+    description: Unirse
+    default: true

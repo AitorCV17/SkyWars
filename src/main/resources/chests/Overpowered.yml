@@ -1,0 +1,62 @@
+name: Overpowered
+item:
+  item: DIAMOND_HELMET
+  name: '&4&lCofres Sobrecargados'
+  slot: 16
+  description:
+    - '&7El cofre contendrá:'
+    - '&7Armadura insana'
+    - '&7Espadas dominantes'
+    - '&7Grandes cantidades de manzanas doradas'
+    - '&7Y otras cosas'
+items:
+  # CHANCE MIN-AMOUNT MAX-AMOUNT ITEM:DATA,ECHANTMENT:LEVEL,ECHANTMENT:LEVEL,ECHANTMENT:LEVEL,..,name:&aCUSTOM NAME,lore:&7CUSTOM LORE,lore:&7CUSTOM LORE,lore:&7CUSTOM LORE,leather_color:255-0-0,...
+
+  # Cosas aleatorias
+  - 100 12 12 wood
+  - 50 12 12 wood
+  - 100 18 18 cobblestone
+  - 75 12 12 cobblestone
+  - 50 3 3 snow_ball
+  - 50 2 2 egg
+  - 50 1 1 ender_pearl
+  - 25 2 2 ender_pearl
+  - 50 1 1 lava_bucket
+  - 25 2 2 lava_bucket
+  - 50 1 1 water_bucket
+  - 25 2 2 water_bucket
+
+  # Comida
+  - 90 1 1 apple
+  - 50 1 1 golden_apple
+  - 25 2 2 golden_apple
+
+  # Arco y flechas
+  - 1 1 1 bow,ARROW_INFINITE:1,ARROW_KNOCKBACK:3,ARROW_FIRE:1
+  - 15 1 1 bow,ARROW_INFINITE:1,ARROW_DAMAGE:2
+  - 10 1 1 bow,ARROW_KNOCKBACK:3
+  - 5 1 1 bow,ARROW_FIRE:2
+  - 75 2 2 arrow
+  - 50 4 4 arrow
+  - 10 12 12 arrow
+
+  # Armas
+  - 15 1 1 wood_sword 1,DAMAGE_ALL:1,KNOCKBACK:5
+  - 25 1 1 stone_sword 1,DAMAGE_ALL:5
+  - 15 1 1 stone_axe 1,DAMAGE_ALL:5
+
+  # Cosas de hierro
+  - 50 1 1 iron_helmet,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 50 1 1 iron_chestplate,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 50 1 1 iron_leggings,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 50 1 1 iron_boots,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 50 1 1 iron_sword,DAMAGE_ALL:1
+  - 50 1 1 iron_axe,DAMAGE_ALL:1
+
+  # Cosas de diamante
+  - 25 1 1 diamond_helmet,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 25 1 1 diamond_chestplate,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 25 1 1 diamond_leggings,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 25 1 1 diamond_boots,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 25 1 1 diamond_sword,DAMAGE_ALL:1
+  - 25 1 1 diamond_axe,DAMAGE_ALL:1

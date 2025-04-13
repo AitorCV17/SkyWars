@@ -1,0 +1,14 @@
+price: 650
+icon:
+  slot: 12
+  item: 259,0
+contents:
+  - Flint and steel
+  - Lava bucket
+  - Chainmail chestplate &7(Fire Protection V)
+  - Potion of fire resistance
+items:
+  - 259,1,0
+  - 327,1,0
+  - 303,1,0,PROTECTION_FIRE:5
+  - 373,1,0,potion:FIRE_RESISTANCE:false:false

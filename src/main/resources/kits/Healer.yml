@@ -1,0 +1,12 @@
+price: 1150
+icon:
+  slot: 17
+  item: 438,0,glowing
+contents:
+  - Potion of Healing II
+  - Splash Potion of Healing I
+  - Splash Potion of regeneration
+items:
+  - 373,1,0,potion:INSTANT_HEAL:true:false
+  - 438,1,0,potion:INSTANT_HEAL:false:false
+  - 438,1,0,potion:REGEN:false:false

@@ -1,0 +1,18 @@
+price: 600
+icon:
+  slot: 10
+  item: 76,0
+contents:
+  - 8 TNT
+  - 3 redstone torches
+  - Instant damage potion
+  - Wood sword
+  - Redstone block
+  - 3 Pressure plates
+items:
+  - 46,8,0
+  - 76,3,0
+  - 373,1,0,potion:INSTANT_DAMAGE:false:false
+  - 268,1,0
+  - 152,1,0
+  - 70,3,0

@@ -1,0 +1,21 @@
+rotation: false
+change_block: true
+converted: true
+format:
+  game:
+    - '&lSkyWars'
+    - '%state%'
+    - '&nMapa: %map%'
+    - '&8%players%/%maxplayers%'
+  searching:
+    - '&l----------'
+    - 'BUSCANDO'
+    - 'JUEGOS'
+    - '&l----------'
+state:
+  waiting: '95:5'
+  starting: '95:4'
+  full: '95:10'
+  ingame: '95:14'
+  searching: '95:0'
+signs:

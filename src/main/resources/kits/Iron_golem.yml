@@ -1,0 +1,10 @@
+price: 1000
+icon:
+  slot: 16
+  item: 306,0
+contents:
+  - Iron helmet
+  - Iron leggings
+items:
+  - 306,1,0
+  - 308,1,0

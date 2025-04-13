@@ -1,0 +1,4 @@
+name: SkyWarsBridge
+main: me.aitor.skywars.SkyWarsBungee
+version: ${project.version}
+author: Aitor

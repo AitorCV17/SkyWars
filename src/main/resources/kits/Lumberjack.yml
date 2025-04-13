@@ -1,0 +1,10 @@
+price: 200
+icon:
+  slot: 3
+  item: 275,0,glowing
+contents:
+  - Stone axe &7(Sharpness II Efficiency III)
+  - 10 Logs
+items:
+  - 275,1,0,DAMAGE_ALL:2,DIG_SPEED:3
+  - 17,10,0

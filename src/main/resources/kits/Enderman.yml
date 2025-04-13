@@ -1,0 +1,18 @@
+price: 1000
+icon:
+  slot: 15
+  item: 368,0
+contents:
+  - 20 End stone
+  - Leather helmet &7(&8Black&7)
+  - Leather tunic &7(&8Black&7)
+  - Leather leggings &7(&8Black&7)
+  - Leather boots &7(&8Black&7)
+  - 2 ender pearls
+items:
+  - 121,20,0
+  - 298,1,0,leather_color:0-0-0
+  - 299,1,0,leather_color:0-0-0
+  - 300,1,0,leather_color:0-0-0
+  - 301,1,0,leather_color:0-0-0
+  - 368,2,0

@@ -1,0 +1,12 @@
+price: 800
+icon:
+  slot: 13
+  item: 261,0
+contents:
+  - Bow
+  - 10 arrows
+  - Chain chestplate
+items:
+  - 261,1,0
+  - 262,10,0
+  - 303,1,0

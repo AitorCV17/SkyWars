@@ -1,0 +1,9 @@
+price: 0
+icon:
+  slot: 1
+  item: 45,0
+contents:
+  - 20 bricks
+  - Wooden sword
+items:
+  - 45,20,0

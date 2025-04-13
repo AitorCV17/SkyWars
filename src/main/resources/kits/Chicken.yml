@@ -1,0 +1,10 @@
+price: 600
+icon:
+  slot: 9
+  item: 344,0
+contents:
+  - 32 eggs
+  - Iron leggings
+items:
+  - 344,32,0
+  - 308,1,0

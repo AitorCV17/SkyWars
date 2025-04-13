@@ -1,0 +1,12 @@
+price: 800
+icon:
+  slot: 14
+  item: 116,0
+contents:
+  - Enchanting table
+  - 32 bottle o' enchanting
+  - 16 lapis lazuli
+items:
+  - 116,1,0
+  - 384,32,0
+  - 351,16,4

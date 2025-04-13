@@ -1,0 +1,14 @@
+price: 400
+icon:
+  slot: 6
+  item: 257,0,glowing
+contents:
+  - Iron pickaxe &7(Unbreaking III Efficiency II)
+  - 1 Diamond ore
+  - 8 Iron ore
+  - 5 Coal ore
+items:
+  - 257,1,0,DIG_SPEED:2,DURABILITY:3
+  - 56,1,0
+  - 15,8,0
+  - 16,5,0

@@ -1,0 +1,38 @@
+name: Basic
+item:
+  item: LEATHER_HELMET
+  name: '&e&lCofres Básicos'
+  slot: 10
+  description:
+    - '&7El cofre contendrá:'
+    - '&7Armadura débil'
+    - '&7Espadas de baja potencia'
+    - '&7Comida básica de Minecraft'
+    - '&7Y otras cosas'
+items:
+  # CHANCE MIN-AMOUNT MAX-AMOUNT ITEM:DATA,ECHANTMENT:LEVEL,ECHANTMENT:LEVEL,ECHANTMENT:LEVEL,..,name:&aCUSTOM NAME,lore:&7CUSTOM LORE,lore:&7CUSTOM LORE,lore:&7CUSTOM LORE,leather_color:255-0-0,...
+
+  # Cosas aleatorias
+  - 85 6 12 wood
+  - 100 6 12 cobblestone
+  - 50 3 3 snow_ball
+  - 50 2 2 egg
+
+  # Comida
+  - 90 1 1 apple
+
+  # Arco y flechas
+  - 1 1 1 bow
+  - 50 2 12 arrow
+
+  # Armas
+  - 50 1 1 wood_sword
+  - 25 1 1 stone_sword
+  - 15 1 1 stone_axe
+  - 1 1 1 iron_sword
+
+  # Cosas de cuero
+  - 20 1 1 leather_chestplate
+  - 10 1 1 leather_helmet
+  - 10 1 1 leather_leggings
+  - 20 1 1 leather_boots

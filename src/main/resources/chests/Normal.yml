@@ -1,0 +1,51 @@
+name: Normal
+item:
+  item: CHAINMAIL_HELMET
+  name: '&6Cofres Normales'
+  slot: 13
+  description:
+    - '&7El cofre contendrá:'
+    - '&7Armadura aleatoria'
+    - '&7Cualquier espada'
+    - '&7Comida y algunas manzanas doradas débiles'
+    - '&7Y otras cosas'
+items:
+  # CHANCE MIN-AMOUNT MAX-AMOUNT ITEM:DATA,ECHANTMENT:LEVEL,ECHANTMENT:LEVEL,ECHANTMENT:LEVEL,..,name:&aCUSTOM NAME,lore:&7CUSTOM LORE,lore:&7CUSTOM LORE,lore:&7CUSTOM LORE,leather_color:255-0-0,...
+
+  # Cosas aleatorias
+  - 85 1 12 wood
+  - 100 4 12 cobblestone
+  - 50 1 3 snow_ball
+  - 50 1 3 egg
+  - 1 1 1 ender_pearl
+  - 50 1 1 lava_bucket
+  - 50 1 1 water_bucket
+
+  # Comida
+  - 90 1 1 apple
+  - 50 1 2 golden_apple
+
+  # Arco y flechas
+  - 5 1 1 bow
+  - 50 1 12 arrow
+
+  # Armas
+  - 1 1 1 diamond_sword
+  - 15 1 1 wood_sword,DAMAGE_ALL:1
+  - 25 1 1 stone_sword
+  - 15 1 1 stone_axe,DAMAGE_ALL:1
+  - 5 1 1 iron_sword
+
+  # Cosas de hierro
+  - 3 1 1 iron_helmet
+  - 3 1 1 iron_chestplate
+  - 3 1 1 iron_leggings
+  - 3 1 1 iron_boots
+  - 3 1 1 iron_sword
+  - 3 1 1 iron_axe
+
+  # Cosas de cuero
+  - 20 1 1 leather_chestplate,PROTECTION_ENVIRONMENTAL:1,THORNS:1
+  - 10 1 1 leather_helmet,PROTECTION_ENVIRONMENTAL:1,DURABILITY:1
+  - 10 1 1 leather_leggings,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FIRE:1
+  - 20 1 1 leather_boots,PROTECTION_ENVIRONMENTAL:1,PROTECTION_FALL:1

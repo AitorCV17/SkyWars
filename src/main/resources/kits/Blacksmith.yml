@@ -1,0 +1,14 @@
+price: 400
+icon:
+  slot: 5
+  item: 145,0
+contents:
+  - Anvil
+  - Diamond helmet
+  - Enchanted book &7(Protection I)
+  - 32 bottle o' enchanting
+items:
+  - 145,1,0
+  - 310,1,0
+  - 403,1,0,PROTECTION_ENVIRONMENTAL:1
+  - 384,32,0

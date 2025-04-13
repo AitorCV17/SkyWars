@@ -1,0 +1,16 @@
+price: 1200
+icon:
+  slot: 18
+  item: 46,0
+contents:
+  - Golden boots &7(Blast protection II Feather falling I)
+  - 14 TNT
+  - 2 tripwire hooks
+  - 5 string
+  - 10 redstone
+items:
+  - 317,1,0,PROTECTION_EXPLOSIONS:2,PROTECTION_FALL:1
+  - 46,14,0
+  - 131,2,0
+  - 287,5,0
+  - 331,10,0

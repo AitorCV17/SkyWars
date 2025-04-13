@@ -1,0 +1,8 @@
+price: 1400
+icon:
+  slot: 19
+  item: 272,0,glowing
+contents:
+  - Stone sword &7(Sharpness II)
+items:
+  - 272,1,0,DAMAGE_ALL:2

@@ -1,0 +1,20 @@
+price: 500
+icon:
+  slot: 7
+  item: 331,0
+contents:
+  - 3 redstone repeaters
+  - 20 redstone
+  - 1 sticky piston
+  - 1 hopper
+  - 1 lever
+  - 1 Piston
+  - 1 Redstone Comparator
+items:
+  - 356,3,0
+  - 331,20,0
+  - 29,1,0
+  - 154,1,0
+  - 69,1,0
+  - 33,1,0
+  - 404,1,0

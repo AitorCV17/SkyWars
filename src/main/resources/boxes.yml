@@ -1,0 +1,45 @@
+menu_rows: 1
+default: default
+boxes:
+    default:
+        name: Por Defecto
+        desc: por defecto
+        item: 20
+        data: 0
+        slot: 1
+    light_gray:
+        name: Gris Claro
+        desc: Solo rango
+        item: 95
+        data: 8
+        slot: 2
+    blue:
+        name: Azul
+        desc: Solo rango
+        item: 95
+        data: 11
+        slot: 3
+    yellow:
+        name: Amarillo
+        desc: Solo rango
+        item: 95
+        data: 4
+        slot: 4
+    light_blue:
+        name: Azul Claro
+        desc: Solo rango
+        item: 95
+        data: 3
+        slot: 5
+    light_green:
+        name: Verde Claro
+        desc: Solo rango
+        item: 95
+        data: 5
+        slot: 6
+    magenta:
+        name: Magenta
+        desc: Solo rango
+        item: 95
+        data: 2
+        slot: 7

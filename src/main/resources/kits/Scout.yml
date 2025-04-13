@@ -1,0 +1,10 @@
+price: 600
+icon:
+  slot: 11
+  item: 438,0,potion:SPEED:false:false
+contents:
+  - 3 Splash potions of speed II &7(30 seconds)
+  - Stone sword
+items:
+  - 438,3,0,potion:SPEED:true:false
+  - 272,1,0

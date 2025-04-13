@@ -1,0 +1,12 @@
+price: 200
+icon:
+  slot: 2
+  item: 346,0
+contents:
+  - Fishing rod &7(Luck of the sea III Unbreaking III)
+  - 5 cooked fish
+  - Water bucket
+items:
+  - 346,1,0,LUCK:3,DURABILITY:3
+  - 350,5,0
+  - 326,1,0

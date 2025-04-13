@@ -1,0 +1,14 @@
+price: 500
+icon:
+  slot: 8
+  item: 294,0
+contents:
+  - Golden hoe &7(Fire aspect I)
+  - Golden pants &7(Protection I)
+  - 3 Golden carrots
+  - 5 chicken spawners
+items:
+  - 294,1,0,FIRE_ASPECT:1
+  - 316,1,0,PROTECTION_ENVIRONMENTAL:1
+  - 396,3,0
+  - 383,5,93

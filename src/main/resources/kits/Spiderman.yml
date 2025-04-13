@@ -1,0 +1,18 @@
+price: 350
+icon:
+  slot: 4
+  item: 30,0
+contents:
+  - 15 webs
+  - Leather helmet &7(&cRed&7)
+  - Leather tunic &7(&9Blue&7)
+  - Leather leggings &7(&cRed&7)
+  - Leather boots &7(&9Blue&7)
+  - Jump boost potion
+items:
+  - 30,15,0
+  - 298,1,0,leather_color:255-0-0
+  - 299,1,0,leather_color:0-0-255
+  - 300,1,0,leather_color:255-0-0
+  - 301,1,0,leather_color:0-0-255
+  - 373,1,0,potion:JUMP:false:false
